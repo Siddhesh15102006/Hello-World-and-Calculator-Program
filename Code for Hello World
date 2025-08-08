@@ -1,0 +1,20 @@
+// Experiment Number - 1
+// Siddhesh Gajare
+// ENTC (A3)
+// 25070122511
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout <<"HELLO WORLD\n" ;
+  cout <<"How Are You ?";
+  return 0;
+}
+
+Output :-
+HELLO WORLD
+How Are You ?
+
+=== Code Execution Successful ===

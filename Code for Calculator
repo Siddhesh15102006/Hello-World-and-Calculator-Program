@@ -1,0 +1,48 @@
+// Experiment Number - 1
+// Siddhesh Gajare
+// ENTC (A3)
+// 25070122511
+
+#include <iostream>
+using namespace std;
+int main()
+{
+
+     float num1, num2, sum=0,product,division,subtraction,multiplication;
+
+     cout<< "Enter the first number:";
+     cin>>num1;
+     
+     cout<< "Enter the second number:";
+     cin>>num2;
+     
+     sum=num1+num2;
+     cout<<"\nSum of given numbers:\n"<<sum;
+     
+     product=num1*num2;
+     cout<<"\nThe product of num1 and num2 is:\n"<<product;
+     
+     division=num1/num2;
+     cout<<"\nThe division of num1 and num2 is:\n"<<division;
+     
+     subtraction=num1-num2;
+     cout<<"\nThe subtraction of num1 and num2 is:\n"<<subtraction;
+     
+     return 0;
+ }
+
+Output :-
+Enter the first number:10
+Enter the second number:10
+
+Sum of given numbers:
+20
+The product of num1 and num2 is:
+100
+The division of num1 and num2 is:
+1
+The subtraction of num1 and num2 is:
+0
+--------------------------------
+Process exited after 4.39 seconds with return value 0
+Press any key to continue . . .
